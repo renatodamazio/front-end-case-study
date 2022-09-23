@@ -9,7 +9,7 @@
 
 		<section class="feature feature--create">
 			<div class="image image--desktop">
-				<img alt="Sich selbst kennenlernen" lazy src="@/assets/about-c1.jpg" />
+				<img alt="Sich selbst kennenlernen" lazy src="@/assets/images/about-c1.jpg" />
 			</div>
 
 			<div class="info">
@@ -22,7 +22,7 @@
 					</span>
 				</p>
 
-				<img class="image image--mobile" alt="Sich selbst kennenlernen" lazy src="@/assets/about-c1.jpg" />
+				<img class="image image--mobile" alt="Sich selbst kennenlernen" lazy src="@/assets/images/about-c1.jpg" />
 
 				<p class="sub-title">
 					Reisen erweitert den Horizont. Nicht nur bezüglich der Welt dort draußen, sondern auch bezüglich einem selbst. Was treibt dich an?
@@ -41,7 +41,7 @@
 					</span>
 				</p>
 
-				<img class="image image--mobile" alt="Andere kennenlernen" lazy src="@/assets/about-c2.jpg" />
+				<img class="image image--mobile" alt="Andere kennenlernen" lazy src="@/assets/images/about-c2.jpg" />
 
 				<p class="sub-title">
 					Die Erde ist groß und bunt und so sind ihre Bewohner. Vielleicht triffst du Reisende, die dich einen Schritt begleiten, nur weil sich eure Wege kreuzen.
@@ -51,7 +51,7 @@
 			</div>
 
 			<div class="image">
-                <img alt="Andere kennenlernen" lazy src="@/assets/about-c2.jpg" />
+                <img alt="Andere kennenlernen" lazy src="@/assets/images/about-c2.jpg" />
 			</div>
 		</section>
 
@@ -74,7 +74,7 @@
     .container {
         .banner {
             align-items: center;
-            background-image: url(@/assets/about-banner.png);
+            background-image: url(@/assets/images/about-banner.png);
             background-position: center;
             background-repeat: no-repeat;
             background-size: cover;
