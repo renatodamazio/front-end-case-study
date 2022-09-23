@@ -11,7 +11,10 @@
 - **TeX Gyre Adventor'**
 
 ## Bugfix:
-- **Header menu behavior**
+- **Behavioral bug**: The sidebar should automatically close when a click event outside of it occurs
+- **Behavioral bug**: The sidebar should automatically close after a page transition
+- **UI bug**: The sidebar should be fixed and should not be affected by scrolling behavior
+- **Refactor**: The sidebar should be refactor to use the Composition API
 
 ## Refactor:
 - TheLanding Vue3 Composition
